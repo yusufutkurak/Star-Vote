@@ -54,7 +54,8 @@ cargo build --target wasm32-unknown-unknown --release
 
 ## 📸 Screenshots
 
-![Uploading Ekran Resmi 2025-05-31 13.49.40.png…]()
+<img width="1617" alt="Ekran Resmi 2025-05-31 13 49 40" src="https://github.com/user-attachments/assets/21c70e8b-60cf-4c65-8977-16e73574d2ea" />
+
 
 ## 📄 Undergraduate
 
